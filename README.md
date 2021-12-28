@@ -39,11 +39,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## 简介
 
-使用 Nest.js 搭建相关的疫情小程序 API 服务支持
-
-- 接入 Alibaba 疫情防控相关 API
 
 ## 数据库
 
