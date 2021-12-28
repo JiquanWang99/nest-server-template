@@ -1,6 +1,6 @@
 ## 接入
-- eslint
-- prettier
+- Eslint
+- Prettier
 - commitlint
 - husky
 - 鉴权
